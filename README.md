@@ -1,2 +1,2 @@
 # curriculo
-https://github.com/projesilvestrini/curriculo
+https://projesilvestrini.github.io/curriculo/
